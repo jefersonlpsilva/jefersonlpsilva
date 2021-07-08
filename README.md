@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jefeson Silva and I´m experienced (+13 years) developer living in Brazil. 
+My name is Jefeson Silva and I´m living in Brazil. 
 
 - 🌱 I’m currently learning Rest Api and Android
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/jefersonluispassossilva/) 
